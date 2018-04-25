@@ -138,3 +138,4 @@ const sevenEightNine = [7, 8, 9]
 ???
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-objects-and-arrays-quiz'>Javascript Objects And Arrays Quiz</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript: Objects and Arrays Quiz</p>
